@@ -10,8 +10,6 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
 
-
-
     <title>{{ config('app.name', 'DevOps Release Calendar') }}</title>
     <link rel="icon" href="{{asset('/img/devops.png')}}" style="" type="image/x-icon">
     <link rel="stylesheet" href="{{asset('/css/timeline.css')}}" >
