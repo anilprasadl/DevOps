@@ -13,6 +13,8 @@
     <title>{{ config('app.name', 'DevOps Release Calendar') }}</title>
     <link rel="icon" href="{{asset('/img/devops.png')}}" style="" type="image/x-icon">
     <link rel="stylesheet" href="{{asset('/css/timeline.css')}}" >
+
+
     <!-- Styles -->
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.12/angular-material.min.css">
     <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
